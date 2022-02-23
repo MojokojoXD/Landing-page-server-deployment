@@ -1,6 +1,8 @@
 body{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-content: center;
 }
 img{
     height: 50vh;
@@ -8,9 +10,25 @@ img{
     margin: auto;
 }
 
-h1{
+h3{
     font-family: 'tahoma','verdana',sans-serif;
     font-size: 2vw;
     text-align: center;
     color: grey;
 }
+
+p{
+    text-align: center;
+    font-family: 'tahoma','verdana',sans-serif;
+    font-weight: 800;
+}
+
+button{
+    width: 30vh;
+    margin: auto;
+}
+
+span{
+    color: #09b5a2;
+}
+
