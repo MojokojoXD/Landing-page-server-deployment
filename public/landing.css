@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+img{
+    height: 50vh;
+    width: 30vw;
+    margin: auto;
+}
+
+h1{
+    font-family: 'tahoma','verdana',sans-serif;
+    font-size: 2vw;
+    text-align: center;
+    color: grey;
+}
